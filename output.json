@@ -1,0 +1,156 @@
+[
+  {
+    "postal_code": "1023 NK",
+    "address": "Schellingwouderdijk 319",
+    "price": "850000",
+    "year_built": "1900",
+    "area": "137",
+    "rooms": "6",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "6204.38"
+  },
+  {
+    "postal_code": "1068 HV",
+    "address": "Nieuwe Osdorpergracht 251",
+    "price": "550000",
+    "year_built": "2016",
+    "area": "151",
+    "rooms": "6",
+    "bedrooms": "5",
+    "city": "Amsterdam",
+    "price_per_m2": "3642.38"
+  },
+  {
+    "postal_code": "1081 GZ",
+    "address": "Cannenburg 24",
+    "price": "995000",
+    "year_built": "1966",
+    "area": "184",
+    "rooms": "5",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "5407.61"
+  },
+  {
+    "postal_code": "1060 RM",
+    "address": "Iwan Kantemanplein 64",
+    "price": "575000",
+    "year_built": "1999",
+    "area": "177",
+    "rooms": "5",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "3248.59"
+  },
+  {
+    "postal_code": "1035 HJ",
+    "address": "Potvisstraat 57",
+    "price": "325000",
+    "year_built": "1992",
+    "area": "93",
+    "rooms": "4",
+    "bedrooms": "3",
+    "city": "Amsterdam",
+    "price_per_m2": "3494.62"
+  },
+  {
+    "postal_code": "1106 GC",
+    "address": "Mijndenhof 41",
+    "price": "325000",
+    "year_built": "1981",
+    "area": "121",
+    "rooms": "5",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "2685.95"
+  },
+  {
+    "postal_code": "1081 GT",
+    "address": "Cannenburg 9",
+    "price": "2500",
+    "year_built": "1965",
+    "area": "300",
+    "rooms": "7",
+    "bedrooms": "5",
+    "city": "Amsterdam",
+    "price_per_m2": "8.33"
+  },
+  {
+    "postal_code": "1087 AW",
+    "address": "Erich Salomonstraat 44",
+    "price": "750000",
+    "year_built": "2004",
+    "area": "189",
+    "rooms": "5",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "3968.25"
+  },
+  {
+    "postal_code": "1071 KC",
+    "address": "Jacob Obrechtstraat 7",
+    "price": "3000",
+    "year_built": "1890",
+    "area": "347",
+    "rooms": "13",
+    "bedrooms": "6",
+    "city": "Amsterdam",
+    "price_per_m2": "8.65"
+  },
+  {
+    "postal_code": "1069 PN",
+    "address": "Anton H\u00f6lzelsingel 8",
+    "price": "435000",
+    "year_built": "1990",
+    "area": "109",
+    "rooms": "4",
+    "bedrooms": "3",
+    "city": "Amsterdam",
+    "price_per_m2": "3990.83"
+  },
+  {
+    "postal_code": "1034 ZH",
+    "address": "Buiksloterdijk 390",
+    "price": "1200",
+    "year_built": "1906",
+    "area": "183",
+    "rooms": "5",
+    "bedrooms": "3",
+    "city": "Amsterdam",
+    "price_per_m2": "6.56"
+  },
+  {
+    "postal_code": "1067 VM",
+    "address": "Gerda Brautigamstraat 33",
+    "price": "375000",
+    "year_built": "1991",
+    "area": "113",
+    "rooms": "4",
+    "bedrooms": "3",
+    "city": "Amsterdam",
+    "price_per_m2": "3318.58"
+  },
+  {
+    "postal_code": "1032 XM",
+    "address": "Floraweg 24",
+    "price": "369511",
+    "year_built": "1989",
+    "area": "85",
+    "rooms": "4",
+    "bedrooms": "3",
+    "city": "Amsterdam",
+    "price_per_m2": "4347.19"
+  },
+  {
+    "postal_code": "1069 VW",
+    "address": "Wierdestraat 49",
+    "price": "495000",
+    "year_built": "2012",
+    "area": "132",
+    "rooms": "5",
+    "bedrooms": "4",
+    "city": "Amsterdam",
+    "price_per_m2": "3750.00"
+  }
+]
